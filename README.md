@@ -42,3 +42,4 @@ npm start
 ## Goal
 
 Learn token mechanics before deploying real smart contracts.
+
