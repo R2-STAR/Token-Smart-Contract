@@ -35,11 +35,12 @@ This mirrors ERC-20 logic using in-memory storage.
 
 ## Run Backend
 
-npm install
-npm start
+ - npm install
+ - npm start
 
 
 ## Goal
 
 Learn token mechanics before deploying real smart contracts.
+
 
